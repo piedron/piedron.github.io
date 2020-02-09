@@ -64,7 +64,7 @@ yarn config set registry https://registry.npm.taobao.org
 ## 教程
 
 - [从零开始搭建 VuePress 静态博客](https://gleehub.com/other/cong-ling-kai-shi-da-jian-vuepress-jing-tai-bo-ke.html)
-- [vuepress-theme-yur 使用教程](https://gleehub.com/other/vuepress-theme-yur-shi-yong-jiao-cheng.html)
+- [vuepress-theme-yur 使用教程](https://imwiki.cn/zh/theme/vuepress-theme-yur.html)
 
 ## 协议
 

@@ -10,7 +10,7 @@ module.exports = {
         {
             title: 'Yur Tool',
             subtitle: '主题快速搭建工具',
-            link: 'https://github.com/ioim/vuepress-theme-yur-cli'
+            link: 'https://github.com/ioim/vuepress-theme-yur-tool'
         }
     ],
     two: [
