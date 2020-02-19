@@ -79,5 +79,16 @@ module.exports = {
         //     tongJi: '',
         //     autoPush: true
         // }
+        //气泡特效
+        post: {
+        	bubbles: {
+				color: 'random',
+				radius: 15,
+				density: 0.3,
+				clearOffset: 0.2
+			}
+        },
+        //夜间模式
+        dark: true,
     }
 };
