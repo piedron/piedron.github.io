@@ -90,5 +90,8 @@ module.exports = {
         },
         //夜间模式
         dark: true,
+        
+        //cdn
+        //cdn: 'https://cdn.jsdelivr.net/gh/cnguu/cnguu.github.io@master/'
     }
 };
