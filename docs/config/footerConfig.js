@@ -15,7 +15,7 @@ module.exports = {
     ],
     two: [
         {
-            title: '备案 xxxxxxxx 号',
+            title: '备案 晋ICP备20001099号',
             link: 'http://beian.miit.gov.cn',
             type: 'flag',
             theme: 'filled'

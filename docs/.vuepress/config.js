@@ -11,30 +11,32 @@ module.exports = {
     ],
     themeConfig: {
         lang: 'zh-CN',
-        //logo: '/logo48.png',
-        author: 'cnguu',
-        authorLink: 'https://github.com/cnguu/',
+        logo: 'https://www.piedron.cn/images/avatar.jpg',
+        author: '谢梓聪',
+        authorLink: 'https://www.piedron.cn',
         //封面图
         //banner: '/banner.png',
         locales: {
-            title: '星汉灿烂',
-            description: '书写生活与你'
+            title: '谢梓聪',
+            description: '便纵有，千种风情，更与何人说。'
         },
         navs: [
-            {text: '编程技术', link: '/programe/'},
-            {text: '生活兴趣', link: '/life/'},
-            {text: '编程技术', link: '/tool/'},
-            {text: '编程技术', link: '/other/'}
+            {text: '语言的美', link: '/coding/'},
+            {text: '算法的懿', link: '/algorithm/'},
+			{text: '学习&生活', link: '/life/'},
+			{text: '工具集', link: '/utils/'},
+			{text: '照片墙', link: '/gallery/'},
+			{text: '其他', link: '/others/'},
         ],
         //按钮组
         buttons: [
-            {text: '阅读列表', link: '/posts/', type: 'primary'},
-            {text: '了解作者', link: '/about.html', type: 'default'}
+            {text: '来篇文章', link: '/posts/', type: 'primary'},
+            {text: '了解那个他', link: '/about.html', type: 'default'}
         ],
         timeline: true,
         links: linkConfig,
         about: true,
-        avatar: 'https://static.xmt.cn/cc50c217cbe342ce951324583f2c6139.png',
+        avatar: 'https://www.piedron.cn/images/avatar.jpg',
         //添加社交
         social: socialConfig,
         //页脚
@@ -59,12 +61,12 @@ module.exports = {
         },
         //打赏
         reward: [
-            'https://static.xmt.cn/ca717dde8ae14ea7ab3c8c74b8711414.png',
-            'https://static.xmt.cn/acc7d3d02b0c4a35a3735268cbb2cce0.png'
+            'https://www.piedron.cn/images/wechat.jpg',
+            'https://www.piedron.cn/images/alipay.jpg'
         ],
         //落下帷幕
         curtain: {
-            tip: '页面准备中...',
+            tip: '您的到来让小站蓬荜生辉，请稍待片刻，正在全力加载中😍😍😍',
             textShadow: '#e91e63'
         },
 

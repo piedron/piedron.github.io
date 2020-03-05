@@ -1,18 +1,18 @@
 {
-  "name": "blog",
+  "name": "Piedron",
   "version": "1.0.0",
-  "description": "cnguu's blog",
+  "description": "Like we used to do",
   "keywords": [
-    "cnguu",
-    "gleehub",
-    "blog"
+    "yur",
+    "zicongxie",
+    "Piedron"
   ],
-  "author": "cnguu",
+  "author": "Piedron",
   "license": "Mozilla",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git@github.com:cnguu/vuepress-blog.git"
+    "url": "git@github.com:piedron/vuepress-blog.git"
   },
   "main": "index.js",
   "scripts": {

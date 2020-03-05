@@ -28,7 +28,7 @@ cp -i README.md dist_temp
 cd dist_temp
 
 # 新建 CNAME 文件，并写入 gleehub.com 域名
-echo gleehub.com > CNAME
+#echo gleehub.com > CNAME
 
 # 初始化仓库
 git init
@@ -40,7 +40,7 @@ git add -A
 git commit -m deploy
 
 # 强制推送到 cnguu.github.io 仓库的 master 分支
-git push -f git@github.com:cnguu/cnguu.github.io.git master
+git push -f https://github.com/piedron/piedron.github.io.git master
 
 # 多仓库部署开始 ------
 
